@@ -1,0 +1,146 @@
+#EXTM3U
+#PLAYLIST:VGM & Chip Tunes
+#EXT-X-VERSION:3
+# This playlist was curated from the supplied source M3U.
+# Logo references use the station website/domain where possible.
+# Stream URLs were retained from the source except where an official current direct endpoint was verified.
+
+#EXTINF:-1 tvg-id="VG-001" tvg-name="Arcade Radio" tvg-country="United States" tvg-language="English" tvg-logo="https://arcaderadio.com/favicon.ico" group-title="VGM & Chip Tunes",Arcade Radio
+# Genre: Arcade / Retro
+# Homepage: https://arcaderadio.com/index.html
+https://server10.reliastream.com/proxy/arcaderadio?mp=/stream2
+
+#EXTINF:-1 tvg-id="VG-002" tvg-name="CINEMIX" tvg-country="France" tvg-language="English" tvg-logo="https://cinemix.us/favicon.ico" group-title="VGM & Chip Tunes",CINEMIX
+# Genre: Film Soundtracks
+# Homepage: https://www.cinemix.us/
+https://kathy.torontocast.com:1825/stream
+
+#EXTINF:-1 tvg-id="VG-003" tvg-name="Classic FM - Video Game Music" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://classicfm.com/favicon.ico" group-title="VGM & Chip Tunes",Classic FM - Video Game Music
+# Genre: Video Game Soundtracks
+# Homepage: https://www.classicfm.com/discover-music/periods-genres/video-game/
+https://icecast.thisisdax.com/ClassicFM-M-Gaming
+
+#EXTINF:-1 tvg-id="VG-004" tvg-name="Classic Videogames RADIO" tvg-country="Germany" tvg-language="German" tvg-logo="https://classic-videogames.de/favicon.ico" group-title="VGM & Chip Tunes",Classic Videogames RADIO
+# Genre: Chiptune / Demoscene
+# Homepage: https://www.classic-videogames.de/radio/
+http://195.201.9.210:1541/stream/2/
+
+#EXTINF:-1 tvg-id="VG-005" tvg-name="COMMODEXPLORER" tvg-country="France" tvg-language="French" tvg-logo="https://commodexplorer.c-prod.net/favicon.ico" group-title="VGM & Chip Tunes",COMMODEXPLORER
+# Genre: Commodore / Amiga / Retro
+# Homepage: https://commodexplorer.c-prod.net/
+https://manager8.streamradio.fr:2295/stream
+
+#EXTINF:-1 tvg-id="VG-006" tvg-name="CVGM" tvg-country="Canada" tvg-language="English" tvg-logo="https://cvgm.net/favicon.ico" group-title="VGM & Chip Tunes",CVGM
+# Genre: Video Game Music / Demoscene
+# Homepage: https://www.cvgm.net/
+https://slacker.cvgm.net/cvgm192
+
+#EXTINF:-1 tvg-id="VG-007" tvg-name="ERICADE Radio" tvg-country="Sweden" tvg-language="English" tvg-logo="https://radio.ericade.net/favicon.ico" group-title="VGM & Chip Tunes",ERICADE Radio
+# Genre: Tracked Music / Demoscene
+# Homepage: https://radio.ericade.net/
+https://radio.ericade.net/sc/stream/1/
+
+#EXTINF:-1 tvg-id="VG-008" tvg-name="FunkyUncleFM" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://funkyunclefm.net/favicon.ico" group-title="VGM & Chip Tunes",FunkyUncleFM
+# Genre: Electronic / Community
+# Homepage: https://funkyunclefm.net/
+https://funkyunclefm.net/stream_vorbis192
+
+#EXTINF:-1 tvg-id="VG-009" tvg-name="Gensokyo Radio" tvg-country="International" tvg-language="English" tvg-logo="https://gensokyoradio.net/favicon.ico" group-title="VGM & Chip Tunes",Gensokyo Radio
+# Genre: Touhou / Game Music
+# Homepage: https://gensokyoradio.net/
+https://stream.gensokyoradio.net/3
+
+#EXTINF:-1 tvg-id="VG-010" tvg-name="GTA Radio" tvg-country="Germany" tvg-language="German" tvg-logo="https://laut.fm/favicon.ico" group-title="VGM & Chip Tunes",GTA Radio
+# Genre: GTA / Game Music
+# Homepage: https://laut.fm/gta-classics
+https://stream.laut.fm/gta-classics
+
+#EXTINF:-1 tvg-id="VG-011" tvg-name="Gyusyabu" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://gyusyabu.ddo.jp/favicon.ico" group-title="VGM & Chip Tunes",Gyusyabu
+# Genre: Japanese PC Game Music
+# Homepage: http://gyusyabu.ddo.jp/
+http://gyusyabu.ddo.jp:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="VG-012" tvg-name="Intergalactic FM - The Dream Machine" tvg-country="Netherlands" tvg-language="English" tvg-logo="https://intergalactic.fm/favicon.ico" group-title="VGM & Chip Tunes",Intergalactic FM - The Dream Machine
+# Genre: 80s Electronic / Italo / Retro
+# Homepage: https://www.intergalactic.fm/
+https://radio.intergalactic.fm/3A
+
+#EXTINF:-1 tvg-id="VG-013" tvg-name="Kaaosradio" tvg-country="Finland" tvg-language="Finnish" tvg-logo="https://kaaosradio.fi/favicon.ico" group-title="VGM & Chip Tunes",Kaaosradio
+# Genre: Electronic / Tracker / Retro
+# Homepage: https://kaaosradio.fi/
+https://kaaosradio.fi:8001/chip
+
+#EXTINF:-1 tvg-id="VG-014" tvg-name="Kohina" tvg-country="Sweden" tvg-language="English" tvg-logo="https://kohina.com/favicon.ico" group-title="VGM & Chip Tunes",Kohina
+# Genre: Old-School Game / Demo Music
+# Homepage: https://kohina.com/
+https://kohina.duckdns.org/icecast/stream.ogg
+
+#EXTINF:-1 tvg-id="VG-015" tvg-name="LapFox Radio" tvg-country="Canada" tvg-language="English" tvg-logo="https://lapfoxradio.com/favicon.ico" group-title="VGM & Chip Tunes",LapFox Radio
+# Genre: Electronic / Chiptune
+# Homepage: https://lapfoxradio.com/
+https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg
+
+#EXTINF:-1 tvg-id="VG-016" tvg-name="Liquid DooM Radio" tvg-country="International" tvg-language="English" tvg-logo="https://liquiddoom.net/favicon.ico" group-title="VGM & Chip Tunes",Liquid DooM Radio
+# Genre: Doom / Game Soundtracks
+# Homepage: https://liquiddoom.net/
+http://83.240.65.106:8000/doom
+
+#EXTINF:-1 tvg-id="VG-017" tvg-name="Nectarine Demoscene Radio" tvg-country="France" tvg-language="English" tvg-logo="https://scenestream.net/favicon.ico" group-title="VGM & Chip Tunes",Nectarine Demoscene Radio
+# Genre: Demoscene / Tracker
+# Homepage: https://www.scenestream.net/
+http://necta.burn.net:8000/nectarine
+
+#EXTINF:-1 tvg-id="VG-018" tvg-name="No Life Radio" tvg-country="France" tvg-language="French" tvg-logo="https://nolife-radio.com/favicon.ico" group-title="VGM & Chip Tunes",No Life Radio
+# Genre: Video Game / Anime Music
+# Homepage: https://nolife-radio.com/
+https://listen.nolife-radio.com/stream
+
+#EXTINF:-1 tvg-id="VG-019" tvg-name="NTS - Otaku" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://nts.live/favicon.ico" group-title="VGM & Chip Tunes",NTS - Otaku
+# Genre: Anime / Game Music
+# Homepage: https://www.nts.live/infinite-mixtapes/otaku
+https://stream-mixtape-geo.ntslive.net/mixtape36
+
+#EXTINF:-1 tvg-id="VG-020" tvg-name="Radio Rivendell" tvg-country="Sweden" tvg-language="English" tvg-logo="https://radiorivendell.com/favicon.ico" group-title="VGM & Chip Tunes",Radio Rivendell
+# Genre: Fantasy / Orchestral / Game Music
+# Homepage: https://radiorivendell.com/
+https://play.radiorivendell.com/radio/8000/radio.mp3
+
+#EXTINF:-1 tvg-id="VG-021" tvg-name="RadioSEGA" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://radiosega.net/favicon.ico" group-title="VGM & Chip Tunes",RadioSEGA
+# Genre: SEGA / Video Game Music
+# Homepage: https://www.radiosega.net/
+https://icecast.radiosega.net/live
+
+#EXTINF:-1 tvg-id="VG-022" tvg-name="Rainwave - Game" tvg-country="Canada" tvg-language="English" tvg-logo="https://rainwave.cc/favicon.ico" group-title="VGM & Chip Tunes",Rainwave - Game
+# Genre: Video Game Music
+# Homepage: https://rainwave.cc/
+https://rainwave.cc/game
+
+#EXTINF:-1 tvg-id="VG-023" tvg-name="RPGN Radio" tvg-country="International" tvg-language="English" tvg-logo="https://rpgamers.net/favicon.ico" group-title="VGM & Chip Tunes",RPGN Radio
+# Genre: RPG / Video Game Music
+# Homepage: https://www.rpgamers.net/radio/
+https://listen.rpgamers.net/rpgn
+
+#EXTINF:-1 tvg-id="VG-024" tvg-name="SceneSat" tvg-country="Sweden" tvg-language="English" tvg-logo="https://scenesat.com/favicon.ico" group-title="VGM & Chip Tunes",SceneSat
+# Genre: Demoscene / Chiptune / Game Music
+# Homepage: https://scenesat.com/
+https://streams.scenesat.com/main/hq.mp3
+
+#EXTINF:-1 tvg-id="VG-025" tvg-name="Shmup Radio" tvg-country="France" tvg-language="English" tvg-logo="https://shmupradio.com/favicon.ico" group-title="VGM & Chip Tunes",Shmup Radio
+# Genre: Shoot 'em Up / Arcade
+# Homepage: https://shmupradio.com/
+https://stream.shmupradio.com/320
+
+#EXTINF:-1 tvg-id="VG-026" tvg-name="SLAY Radio" tvg-country="Sweden" tvg-language="English" tvg-logo="https://slayradio.org/favicon.ico" group-title="VGM & Chip Tunes",SLAY Radio
+# Genre: Commodore 64 / Game Remixes
+# Homepage: https://www.slayradio.org/
+http://relay4.slayradio.org:8300/
+
+#EXTINF:-1 tvg-id="VG-027" tvg-name="SpriteLayer" tvg-country="International" tvg-language="English" tvg-logo="https://spritelayerradio.com/favicon.ico" group-title="VGM & Chip Tunes",SpriteLayer
+# Genre: Video Game Music / Chiptune
+# Homepage: https://www.spritelayerradio.com/
+http://www.spritelayerradio.com:8010/all
+
+#EXTINF:-1 tvg-id="VG-028" tvg-name="Streaming Soundtracks" tvg-country="United States" tvg-language="English" tvg-logo="https://streamingsoundtracks.com/favicon.ico" group-title="VGM & Chip Tunes",Streaming Soundtracks
+# Genre: Film / TV / Anime / Game Soundtracks
+# Homepage: http://www.streamingsoundtracks.com/
+http://hi5.streamingsoundtracks.com/
