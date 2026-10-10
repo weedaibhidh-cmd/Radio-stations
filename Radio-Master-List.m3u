@@ -317,3 +317,114 @@ https://www.subsonicradio.com:8443/longbois.mp3
 # Genre: Theme Park / Soundtracks
 # Homepage: https://www.subsonicradio.com/
 https://www.subsonicradio.com:8443/wedway.mp3
+
+# ==================================================
+# Campus Radio
+# ==================================================
+#EXTINF:-1 radio="true" tvg-id="CR-001" tvg-name="BFF.fm" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",BFF.fm
+# Genre: Campus Radio
+http://stream.bff.fm/1/BFF.fm.mp3
+
+#EXTINF:-1 radio="true" tvg-id="CR-002" tvg-name="CIUT 89.5" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",CIUT 89.5
+# Genre: Campus Radio
+https://ice23.securenetsystems.net/CIUT
+
+#EXTINF:-1 radio="true" tvg-id="CR-003" tvg-name="CKUT 90.3" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",CKUT 90.3
+# Genre: Campus Radio
+https://ckut.out.airtime.pro/ckut_a
+
+#EXTINF:-1 radio="true" tvg-id="CR-004" tvg-name="KALX 90.7" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",KALX 90.7
+# Genre: Campus Radio
+https://stream.kalx.berkeley.edu:8443/kalx-320.aac
+
+#EXTINF:-1 radio="true" tvg-id="CR-005" tvg-name="KCRW - Eclectic24" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",KCRW - Eclectic24
+# Genre: Campus Radio
+https://streams.kcrw.com/e24_mp3
+
+#EXTINF:-1 radio="true" tvg-id="CR-006" tvg-name="KFJC 89.7" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",KFJC 89.7
+# Genre: Campus Radio
+http://netcast.kfjc.org/kfjc-320k-aac
+
+#EXTINF:-1 radio="true" tvg-id="CR-007" tvg-name="KSPC 88.7" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",KSPC 88.7
+# Genre: Campus Radio
+https://kspc.radioca.st/stream
+
+#EXTINF:-1 radio="true" tvg-id="CR-008" tvg-name="KUSF" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",KUSF
+# Genre: Campus Radio
+https://listen.kusf.org/stream
+
+#EXTINF:-1 radio="true" tvg-id="CR-009" tvg-name="KUTX 98.9" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",KUTX 98.9
+# Genre: Campus Radio
+https://streams.kut.org/4428_192.mp3
+
+#EXTINF:-1 radio="true" tvg-id="CR-010" tvg-name="KVRX 91.7" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",KVRX 91.7
+# Genre: Campus Radio
+https://kvrx.org/now_playing/stream
+
+#EXTINF:-1 radio="true" tvg-id="CR-011" tvg-name="KXLU 88.9" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",KXLU 88.9
+# Genre: Campus Radio
+https://kxlu.streamguys1.com/kxlu-hi
+
+#EXTINF:-1 radio="true" tvg-id="CR-012" tvg-name="KZSU Stanford 90.1" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",KZSU Stanford 90.1
+# Genre: Campus Radio
+http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
+
+#EXTINF:-1 radio="true" tvg-id="CR-013" tvg-name="Prun'" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",Prun'
+# Genre: Campus Radio
+https://www.prun.net/stream
+
+#EXTINF:-1 radio="true" tvg-id="CR-014" tvg-name="Radio KRŠ" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",Radio KRŠ
+# Genre: Campus Radio
+https://stream.radiokrs.me:8443/lq.mp3
+
+#EXTINF:-1 radio="true" tvg-id="CR-015" tvg-name="Subcity Radio" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",Subcity Radio
+# Genre: Campus Radio
+https://stream.subcity.org/listen
+
+#EXTINF:-1 radio="true" tvg-id="CR-016" tvg-name="UCT Radio" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",UCT Radio
+# Genre: Campus Radio
+https://edge.iono.fm/xice/uctradio_live_high.aac
+
+#EXTINF:-1 radio="true" tvg-id="CR-017" tvg-name="WFMU - Rock 'n' Soul" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WFMU - Rock 'n' Soul
+# Genre: Campus Radio
+http://wfmu.org/wfmu_rock.pls
+
+#EXTINF:-1 radio="true" tvg-id="CR-018" tvg-name="WFMU - Sheena's Jungle Room" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WFMU - Sheena's Jungle Room
+# Genre: Campus Radio
+http://stream0.wfmu.org/sheena
+
+#EXTINF:-1 radio="true" tvg-id="CR-019" tvg-name="WFMU 91.1" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WFMU 91.1
+# Genre: Campus Radio
+https://wfmu.org/wfmu.pls
+
+#EXTINF:-1 radio="true" tvg-id="CR-020" tvg-name="WMSE 91.7" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WMSE 91.7
+# Genre: Campus Radio
+https://wmse.streamguys1.com/wmselivemp3
+
+#EXTINF:-1 radio="true" tvg-id="CR-021" tvg-name="WNCW 88.7" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WNCW 88.7
+# Genre: Campus Radio
+https://wncw-live-a.edge.audiocdn.com/6286_56k.aac
+
+#EXTINF:-1 radio="true" tvg-id="CR-022" tvg-name="WNYC - New Sounds" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WNYC - New Sounds
+# Genre: Campus Radio
+http://q2stream.wqxr.org/q2
+
+#EXTINF:-1 radio="true" tvg-id="CR-023" tvg-name="WRIR 97.3" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WRIR 97.3
+# Genre: Campus Radio
+https://live.wrir.org/
+
+#EXTINF:-1 radio="true" tvg-id="CR-024" tvg-name="WSUM 91.7" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WSUM 91.7
+# Genre: Campus Radio
+https://ice23.securenetsystems.net/WSUMFM
+
+#EXTINF:-1 radio="true" tvg-id="CR-025" tvg-name="WTJU 91.1" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WTJU 91.1
+# Genre: Campus Radio
+https://streams.wtju.net/wtju-live.mp3
+
+#EXTINF:-1 radio="true" tvg-id="CR-026" tvg-name="WXYC 89.3" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WXYC 89.3
+# Genre: Campus Radio
+https://audio-mp3.ibiblio.org/wxyc.mp3
+
+#EXTINF:-1 radio="true" tvg-id="CR-027" tvg-name="WZRD 88.3" tvg-country="Unknown" tvg-language="Unknown" tvg-logo="" group-title="Campus Radio",WZRD 88.3
+# Genre: Campus Radio
+https://wzrd.streamguys1.com/live
